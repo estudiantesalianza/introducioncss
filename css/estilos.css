@@ -1,0 +1,25 @@
+header
+{
+	background-color: #000;
+	height: 50px;
+}
+header ul li 
+{
+	float: right;
+	list-style: none;
+	padding: 15px;
+}
+header ul li a
+{
+	color: #fff;
+}
+#contenedor
+{
+	background-color: green;
+	height: 200px;
+}
+.section
+{
+	height: 120px;
+	background-color: #666;
+}
